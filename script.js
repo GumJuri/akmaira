@@ -10,27 +10,27 @@
 
   var sliderImages = [
     {
-      src: "./assets/slide-1.png",
+      src: "./slide-1.png",
       alt: "Akmaira — команда героев в аниме-стиле"
     },
     {
-      src: "./assets/slide-2.png",
+      src: "./slide-2.png",
       alt: "Akmaira — героиня с посохом"
     },
     {
-      src: "./assets/slide-3.png",
+      src: "./slide-3.png",
       alt: "Множество мини-игр: строительство, подземелья и настольные игры"
     },
     {
-      src: "./assets/slide-4.png",
+      src: "./slide-4.png",
       alt: "Стратегия и эффектные бои — тактический RPG"
     },
     {
-      src: "./assets/slide-5.png",
+      src: "./slide-5.png",
       alt: "100+ полезных героев — любой герой становится UR"
     },
     {
-      src: "./assets/slide-6.png",
+      src: "./slide-6.png",
       alt: "Akmaira — героиня с кошачьими ушками"
     }
   ];
