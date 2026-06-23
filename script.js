@@ -10,16 +10,28 @@
 
   var sliderImages = [
     {
-      src: "./assets/slide-1.jpg",
-      alt: "Скриншот Akmaira с героиней в аниме-стиле"
+      src: "./assets/slide-1.png",
+      alt: "Akmaira — команда героев в аниме-стиле"
     },
     {
-      src: "./assets/slide-2.jpg",
-      alt: "Тактический бой в игре Akmaira"
+      src: "./assets/slide-2.png",
+      alt: "Akmaira — героиня с посохом"
     },
     {
-      src: "./assets/slide-3.jpg",
-      alt: "Фэнтези-мир и персонажи Akmaira"
+      src: "./assets/slide-3.png",
+      alt: "Множество мини-игр: строительство, подземелья и настольные игры"
+    },
+    {
+      src: "./assets/slide-4.png",
+      alt: "Стратегия и эффектные бои — тактический RPG"
+    },
+    {
+      src: "./assets/slide-5.png",
+      alt: "100+ полезных героев — любой герой становится UR"
+    },
+    {
+      src: "./assets/slide-6.png",
+      alt: "Akmaira — героиня с кошачьими ушками"
     }
   ];
 
@@ -31,7 +43,7 @@
     slideMedia.innerHTML = [
       '<div class="slide-placeholder">',
       "<span>Akmaira</span>",
-      "<strong>Замените slide-1.jpg, slide-2.jpg и slide-3.jpg своими изображениями</strong>",
+      "<strong>Добавьте изображения в папку assets и укажите их в sliderImages</strong>",
       "</div>"
     ].join("");
   }
