@@ -43,7 +43,7 @@
     slideMedia.innerHTML = [
       '<div class="slide-placeholder">',
       "<span>Akmaira</span>",
-      "<strong>Добавьте изображения в папку assets и укажите их в sliderImages</strong>",
+      "<strong>Images</strong>",
       "</div>"
     ].join("");
   }
